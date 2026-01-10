@@ -7,3 +7,4 @@ Conteúdos sobre MCPs de apresentação realizada no dia 10/01/2026.
 
 - [Create a minimal MCP server using C# and publish to NuGet | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/ai/quickstarts/build-mcp-server)
 - [OWASP MCP Top 10 | OWASP Foundation](https://owasp.org/www-project-mcp-top-10/)
+- [APIsec MCP Discovery and Audit](https://apisec-inc.github.io/mcp-audit/)
