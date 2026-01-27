@@ -3,6 +3,11 @@ Conteúdos sobre MCPs de apresentação realizada no dia 10/01/2026, durante a e
 
 ---
 
+## Exemplos da palestra
+
+- [MCP Server criado com .NET 10 (pacote NuGet)](https://github.com/renatogroffe/dotnet10-nuget-mcp-fakedata)
+- [FakeDataMcpServer - MCP Server disponibilizado como um pacote NuGet (pacote NuGet)](https://www.nuget.org/packages/FakeDataMcpServer/1.0.0)
+
 ## Referências
 
 - [Create a minimal MCP server using C# and publish to NuGet | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/ai/quickstarts/build-mcp-server)
