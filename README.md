@@ -4,7 +4,7 @@ Conteúdos sobre MCPs de apresentação realizada no dia 10/01/2026, durante a e
 ---
 
 ## Exemplos da palestra
-
+-
 - [MCP Server criado com .NET 10 (pacote NuGet)](https://github.com/renatogroffe/dotnet10-nuget-mcp-fakedata)
 - [FakeDataMcpServer - MCP Server disponibilizado como um pacote NuGet (pacote NuGet)](https://www.nuget.org/packages/FakeDataMcpServer/1.0.0)
 - [k6 + Azure DevOps: exemplo de teste automatizado de um MCP Server](https://github.com/renatogroffe/k6-mcps-tests-azdevops-pipelines)
